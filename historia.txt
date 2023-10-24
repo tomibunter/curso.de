@@ -1,5 +1,4 @@
-Esta es la historia de Freddy Vega
+Esta es la historia de Tomi Bunter
+Tomi Bunter tiene 20 años y nació en Argentina
 
-Freddy Vega tiene 32 años y nació en Colombia
-
-Hoy nos enseña Git y Github
+Hoy esta aprendiendo Git y Github
